@@ -1,2 +1,3 @@
 # fondyxapp-std
-# Aplicación base para FOndos de Empleados y Coorperativas
+# Aplicación base para Fondos de Empleados y Cooperativas
+# Línea base aplicación movil Flutter
